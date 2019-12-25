@@ -6,6 +6,8 @@
 
 #define MAX_ELEM 10
 
+#define TEST
+
 
 void tree_test() {
 	int a[] = { 6, 2, 1,4,3,8,7,11,10, 12 };
