@@ -6,7 +6,7 @@
 
 #define MAX_ELEM 10
 
-#define TEST
+#define TEST111
 
 
 void tree_test() {
